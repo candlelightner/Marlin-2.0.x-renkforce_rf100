@@ -1,3 +1,7 @@
+# Updated version for the RF100 printer
+
+Based on the config files from [dok-net](https://github.com/dok-net/Marlin/tree/rf100-v3.3.0). Changed heating speed tolerance.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
