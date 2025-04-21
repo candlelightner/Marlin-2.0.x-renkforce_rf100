@@ -1,6 +1,8 @@
 # Updated version for the RF100 printer
 
-Based on the config files from [dok-net](https://github.com/dok-net/Marlin/tree/rf100-v3.3.0). Changed heating speed tolerance.
+Based on the config files from [dok-net](https://github.com/dok-net/Marlin/tree/rf100-v3.3.0). Changed heating speed tolerance and enabled host action commands (for e.g. OctoPrint).
+
+I recommend reading [this guide](https://automatedhome.party/2020/05/08/compiling-marlin-firmware-is-easy-dont-be-afraid-to-do-it/) on compiling via VS code.
 
 # Marlin 3D Printer Firmware
 
